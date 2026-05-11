@@ -1,0 +1,58 @@
+FenixKit Commercial License
+Copyright (c) 2025 FenixKit. All rights reserved.
+
+---
+
+GRANT OF USE
+
+This license grants you, the purchaser, a perpetual, non-exclusive, worldwide right to:
+
+  - Use this software in any number of personal or commercial projects.
+  - Modify the source code to suit your needs.
+  - Deploy applications built with this software without restriction.
+  - Keep your modifications private — you are not required to publish them.
+  - Share the source code within your team working on the licensed project.
+
+---
+
+WHAT COUNTS AS YOUR OWN PRODUCT
+
+Any project that adds its own domain — meaning your own entities, business logic,
+features, or application-specific code built on top of this kit — is considered your
+original work. You own that product fully and may use, sell, or distribute it without
+restriction. You do not need to mention FenixKit in end-user-facing parts of your product.
+
+---
+
+RESTRICTIONS
+
+1. NO RESALE OF THE KIT ITSELF
+   You may not sell, sublicense, or redistribute this software in a form that is
+   recognisably the same kit — with little or no domain of your own added — as a
+   standalone template, starter kit, boilerplate, or code base. The restriction targets
+   repackaging of the kit, not products built with it.
+
+2. NO MISREPRESENTATION OF THE KIT'S ORIGIN
+   You may not claim to be the original author of this starter kit. If you publish or
+   distribute the kit itself (not a product built on it), you must retain the following
+   attribution notice:
+
+       "Originally created by FenixKit — fenixkit.dev"
+
+3. ONE LICENSE PER PURCHASER
+   This license is granted to the individual or organisation that purchased it.
+   It covers unlimited projects and the entire team working on those projects.
+   No additional licenses are required per developer or per project.
+
+---
+
+DISCLAIMER
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL FENIXKIT BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.
+
+---
+
+For licensing questions, contact: support@fenixkit.dev
