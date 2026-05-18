@@ -1,4 +1,4 @@
-# FenixKit — .NET 8 Minimal API Starter Kit
+# FenixKit — .NET Minimal API Starter Kit
 
 > **Ship faster. Build smarter.**  
 > A MongoDB-backed API template for .NET developers.
@@ -19,7 +19,7 @@ Stop rewriting the same boilerplate on every project. FenixKit gives you a solid
 
 | Feature | Details |
 |---|---|
-| **Architecture** | .NET 8 Minimal API — no controllers, faster startup |
+| **Architecture** | .NET 8 / .NET 10 Minimal API — no controllers, faster startup |
 | **Database** | MongoDB with a full abstraction layer |
 | **Error handling** | ErrorOr v2 result pattern + RFC 7807 ProblemDetails |
 | **Pagination** | Offset-based and cursor-based, both included |
@@ -396,7 +396,7 @@ public async Task<ErrorOr<List<OrderSummaryResponse>>> GetByCustomerAsync(
 
 | Requirement | Minimum |
 |---|---|
-| .NET SDK | 8.0 LTS |
+| .NET SDK | 8.0 LTS or 10.0 |
 | MongoDB | 6.x+ (or use Docker Compose) |
 | Docker Desktop | 4.x (optional) |
 
@@ -433,7 +433,7 @@ Once the checklist passes, rename or delete the Product files and replace them w
 
 | Package | Role |
 |---|---|
-| .NET 8 LTS + C# 12 | Runtime, SDK and language |
+| .NET 8 LTS (C# 12) · .NET 10 (C# 14) | Runtime, SDK and language |
 | MongoDB.Driver | Official MongoDB .NET driver |
 | ErrorOr v2 | Result pattern — no exceptions for domain errors |
 | Swashbuckle.AspNetCore | Swagger UI and OpenAPI spec generation |
