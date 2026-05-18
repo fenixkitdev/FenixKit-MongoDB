@@ -1,19 +1,18 @@
 # FenixKit — .NET Minimal API Starter Kit
 
-> **Ship faster. Build smarter.**  
-> A MongoDB-backed API template for .NET developers.
-
-Stop rewriting the same boilerplate on every project. FenixKit gives you a solid, scalable foundation — error handling, pagination, repository pattern, Docker, Swagger — all wired up, documented, and ready to extend from day one.
-
-
 <p align="center">
   <a href="https://fenixkit.dev">
-    <img src="images/logo-0.png" alt="FenixKit" width="300" />
+    <img src="images/logo-mongo.png" alt="FenixKit" width="300" />
   </a>
 </p>
 <h3 align="center">
   Get it here: <a href="https://fenixkit.dev">fenixkit.dev</a>
-</p>
+</h3>
+
+> **Ship faster. Build smarter.**  
+> A MongoDB-backed API template for .NET developers.
+
+Stop rewriting the same boilerplate on every project. FenixKit gives you a solid, scalable foundation — error handling, pagination, repository pattern, Docker, Swagger — all wired up, documented, and ready to extend from day one.
 
 ## What's Inside
 
