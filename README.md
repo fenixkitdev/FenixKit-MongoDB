@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://fenixkit.dev/kits/spark/">
-    <img src="https://fenixkit.dev/assets/kits/banners/spark.png" alt="SPARK by FenixKit" width="100%" />
+    <img src="images/banner.png" alt="SPARK by FenixKit" width="100%" />
   </a>
 </p>
 <p align="center">
-  <img src="https://fenixkit.dev/assets/kits/logos/spark.png" alt="SPARK" width="200" />
+  <img src="images/logo.png" alt="SPARK" width="200" />
 </p>
 <h3 align="center">
   <a href="https://fenixkit.dev/kits/spark/">fenixkit.dev/kits/spark/</a>
