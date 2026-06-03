@@ -1,18 +1,19 @@
-# FenixKit — .NET Minimal API Starter Kit
+﻿# SPARK by FenixKit — Starter · Persistence · API · Repository · Kit
 
 <p align="center">
-  <a href="https://fenixkit.dev">
-    <img src="images/logo-mongo.png" alt="FenixKit" width="300" />
+  <a href="https://fenixkit.dev/kits/spark/">
+    <img src="https://fenixkit.dev/assets/kits/banners/spark.png" alt="SPARK by FenixKit" width="100%" />
   </a>
 </p>
+<p align="center">
+  <img src="https://fenixkit.dev/assets/kits/logos/spark.png" alt="SPARK" width="200" />
+</p>
 <h3 align="center">
-  Get it here: <a href="https://fenixkit.dev">fenixkit.dev</a>
+  <a href="https://fenixkit.dev/kits/spark/">fenixkit.dev/kits/spark/</a>
 </h3>
 
-> **Ship faster. Build smarter.**  
-> A MongoDB-backed API template for .NET developers.
-
-Stop rewriting the same boilerplate on every project. FenixKit gives you a solid, scalable foundation — error handling, pagination, repository pattern, Docker, Swagger — all wired up, documented, and ready to extend from day one.
+> **SPARK — Starter · Persistence · API · Repository · Kit**
+> A MongoDB-backed .NET Minimal API template — error handling, dual pagination, hook-based repository, Docker, Swagger — all wired up and ready to extend.
 
 ## What's Inside
 
@@ -446,3 +447,5 @@ Once the checklist passes, rename or delete the Product files and replace them w
 FenixKit is a commercial product. Each purchase grants a lifetime licence for unlimited personal and commercial projects.
 
 👉 **[fenixkit.dev](https://fenixkit.dev)**
+
+
